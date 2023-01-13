@@ -1,0 +1,9 @@
+body { text-align: center; padding: 50px; }
+h1 { font-size: 35px; }
+body { font: 23px Monospace; }
+body {
+  background-image: url('img/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
