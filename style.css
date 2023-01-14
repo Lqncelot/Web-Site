@@ -8,3 +8,24 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+
+.icon {
+  transition: all 0.2s ease;
+  cursor: pointer;
+  user-select: none;
+}
+
+.icon:hover {
+  scale: 1.1;
+}
+
+.icon-list {
+  display: flex;
+  gap: 5px;
+  margin: 0 auto;
+  margin-top: 40px;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+}
