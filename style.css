@@ -1,8 +1,9 @@
-body { text-align: center; padding: 50px; }
-h1 { font-size: 35px; }
-body { font: 23px Monospace; }
+body { text-align: center; padding: 100px; }
+h1 { font-size: 60px; }
+p { font-size: 25px;}
+
 body {
-  background-image: url('img/bg.png');
+  background-image: url('img/bg.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
