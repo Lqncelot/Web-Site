@@ -2,14 +2,6 @@ body { text-align: center; padding: 100px; }
 h1 { font-size: 60px; }
 p { font-size: 25px;}
 
-body {
-  background-image: url('img/bg.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
-
 .icon {
   transition: all 0.2s ease;
   cursor: pointer;
@@ -22,7 +14,7 @@ body {
 
 .icon-list {
   display: flex;
-  gap: 5px;
+  gap: 40px;
   margin: 0 auto;
   margin-top: 40px;
   width: auto;
