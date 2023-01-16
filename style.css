@@ -8,15 +8,6 @@ p {
   text-align: center;
 }
 
-body {
-  text-align: center;
-  padding: 50px;
-  background-image: url('img/bg.svg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
 .icon {
   transition: all 0.2s ease;
   cursor: pointer;
